@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @khizarshah123
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning C++
