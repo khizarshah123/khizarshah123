@@ -2,7 +2,15 @@
 
 <h1 align="center">Hi 👋, I'm Khizarshah123</h1>
 
-<h3 align="center">and I'm Student passionate about Software Development, artificial intelligence and Webdevelopment</h3>
+<h3 align="center">and I'm Student passionate about Software Development, Cyper security and Webdevelopment</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0PeterAdel/0PeterAdel/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0PeterAdel/0PeterAdel/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/0PeterAdel/0PeterAdel/output/snake.svg" />
+</picture>
+
+<img align="right" height="150"/>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
 
