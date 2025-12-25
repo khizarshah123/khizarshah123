@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Khizarshah123</h1>
 
-<h3 align="center">and I'm Student passionate about Software Development, Cyper security and Webdevelopment</h3>
+<h3 align="center">and I'm Student passionate about Software Development, Appdevelopment and Webdevelopment</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0PeterAdel/0PeterAdel/output/github-snake-dark.svg" />
